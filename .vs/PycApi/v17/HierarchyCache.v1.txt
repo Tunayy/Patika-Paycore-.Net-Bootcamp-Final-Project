@@ -1,0 +1,386 @@
+﻿++Solution 'PycApi' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:PycApi.sln
+++PycApi
+i:{00000000-0000-0000-0000-000000000000}:PycApi
+++Connected Services 
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1068
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1071
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>818
+++Dependencies
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1067
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:>313
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>312
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:>697
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>454
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1070
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>817
+++Properties
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\properties\
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\properties\
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\properties\
+++launchSettings.json
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\properties\launchsettings.json
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\properties\launchsettings.json
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\properties\launchsettings.json
+++Controller
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\controller\
+++Account_Controller.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\controller\account_controller.cs
+++Category_Controller.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\controller\category_controller.cs
+++Email_Controller.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\controller\email_controller.cs
+++Product_Controller.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\controller\product_controller.cs
+++Middleware
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\middleware\
+++StartUpExtension
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startupextension\
+++ExtensionCustomizeAuthentication.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startupextension\extensioncustomizeauthentication.cs
+++ExtensionCustomizeSwagger.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startupextension\extensioncustomizeswagger.cs
+++ExtensionNHibernate.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startupextension\extensionnhibernate.cs
+++ExtensionService.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startupextension\extensionservice.cs
+++ExtensionSwaggerFileOperationFilter.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startupextension\extensionswaggerfileoperationfilter.cs
+++appsettings.json
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\appsettings.json
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\appsettings.json
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\appsettings.json
+++ErrorDetail.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\errordetail.cs
+++Program.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\program.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\program.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\program.cs
+++Startup.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\startup.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\startup.cs
+++No service dependencies discovered
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1069
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1072
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>819
+++Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:analyzers
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:analyzers
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:analyzers
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:analyzers
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:analyzers
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:analyzers
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:analyzers
+++Frameworks
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:frameworks
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:frameworks
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:frameworks
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:frameworks
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:frameworks
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:frameworks
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:frameworks
+++Packages
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:packages
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:packages
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:packages
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:packages
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:packages
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:packages
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:packages
+++Projects
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:projects
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:projects
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:projects
+++ErrorHandlerMiddleware.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\middleware\errorhandlermiddleware.cs
+++HeartbeatMiddleware.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\middleware\heartbeatmiddleware.cs
+++RequestLoggingMiddleware.cs
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\middleware\requestloggingmiddleware.cs
+++appsettings.Development.json
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\appsettings.development.json
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\appsettings.development.json
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\microsoft.aspnetcore.app
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi\microsoft.netcore.app
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\microsoft.netcore.app
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\microsoft.netcore.app
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\final project\pycapi.dto\microsoft.netcore.app
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\microsoft.netcore.app
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\microsoft.netcore.app
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\microsoft.netcore.app
+++Iesi.Collections (4.0.4)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1153
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:>1121
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1136
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:>1166
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>1081
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>1112
+++MailKit (3.2.0)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1154
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>1082
+++Microsoft.Extensions.Caching.StackExchangeRedis (5.0.1)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1155
+++Microsoft.Extensions.Configuration.Abstractions (5.0.0)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1150
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:>1120
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1130
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:>1165
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>1079
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1100
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>1111
+++Newtonsoft.Json (13.0.1)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1152
+++Swashbuckle.AspNetCore (6.4.0)
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:>1151
+++PycApi.Data
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi.data\pycapi.data.csproj
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Data
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.data\pycapi.data.csproj
+++PycApi.Service
+i:{24606c04-7907-4408-b7c9-6e7cb02aa4bd}:c:\users\tunay.turer\desktop\final project\pycapi.service\pycapi.service.csproj
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Service
+++PycApi.Base
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Base
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\final project\pycapi.base\pycapi.base.csproj
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.base\pycapi.base.csproj
+++Attribute
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\attribute\
+++PasswordAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\attribute\passwordattribute.cs
+++RoleAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\attribute\roleattribute.cs
+++UserNameAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\attribute\usernameattribute.cs
+++Enum
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\enum\
+++Class1.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\enum\class1.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\token\class1.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\jwt\class1.cs
+++RoleEnum.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\enum\roleenum.cs
+++Filters
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\filters\
+++Jwt
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\jwt\
+++Response
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\response\
+++Token
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\token\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\token\
+++TokenRequest.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\token\tokenrequest.cs
+++TokenResponse.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\token\tokenresponse.cs
+++ResponseGiudAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\filters\responsegiudattribute.cs
+++ResponseHeaderAttribute.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\filters\responseheaderattribute.cs
+++RestAllFilters.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\filters\restallfilters.cs
+++JwtConfig.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\jwt\jwtconfig.cs
+++ApplicationResult.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\response\applicationresult.cs
+++BaseResponse.cs
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:c:\users\tunay.turer\desktop\final project\pycapi.base\response\baseresponse.cs
+++Microsoft.AspNetCore.Mvc.Core (2.2.5)
+i:{8eb91278-07b0-4196-a9e6-49d2769ecbfa}:>1122
+++Mapping
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\mapping\
+++Account_Map.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\mapping\account_map.cs
+++Category_Map.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\mapping\category_map.cs
+++DefaultMapping.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\mapping\defaultmapping.cs
+++Product_Map.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\mapping\product_map.cs
+++Model
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\model\
+++Account.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\model\account.cs
+++Category.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\model\category.cs
+++Product.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\model\product.cs
+++Repository
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\repository\
+++HibernateRepository.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\repository\hibernaterepository.cs
+++IHibernateRepository.cs
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:c:\users\tunay.turer\desktop\final project\pycapi.data\repository\ihibernaterepository.cs
+++AutoMapper (10.1.1)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1134
+++FluentNHibernate (3.1.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1133
+++NHibernate (5.3.12)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1129
+++Npgsql (5.0.14)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1139
+++Serilog.AspNetCore (5.0.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1131
+++Serilog.Enrichers.Environment (2.2.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1137
+++Serilog.Enrichers.Process (2.0.2)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1132
+++Serilog.Enrichers.Thread (3.1.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1135
+++Serilog.Settings.Configuration (3.3.0)
+i:{43283d6d-fab8-47a8-971f-ca2e68300c79}:>1138
+++PycApi.Dto
+i:{00000000-0000-0000-0000-000000000000}:PycApi.Dto
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.dto\pycapi.dto.csproj
+++AccountDto.cs
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\final project\pycapi.dto\accountdto.cs
+++CategoryDto.cs
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\final project\pycapi.dto\categorydto.cs
+++EmailDto.cs
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\final project\pycapi.dto\emaildto.cs
+++ProductDto.cs
+i:{2930709f-bb05-49a9-a843-4b3b957bb383}:c:\users\tunay.turer\desktop\final project\pycapi.dto\productdto.cs
+++Account
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\account\
+++Abstract
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\account\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\base\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\category\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\email\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\product\abstract\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\token\abstract\
+++Concrete
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\account\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\base\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\category\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\email\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\product\concrete\
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\token\concrete\
+++Account_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\account\concrete\account_service.cs
+++Base
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\base\
+++BaseService.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\base\concrete\baseservice.cs
+++Category
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\category\
+++Email
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\email\
+++IEmail_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\email\abstract\iemail_service.cs
+++Email_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\email\concrete\email_service.cs
+++Mapper
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\mapper\
+++Product
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\product\
+++IAccount_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\account\abstract\iaccount_service.cs
+++IBaseService.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\base\abstract\ibaseservice.cs
+++ICategory_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\category\abstract\icategory_service.cs
+++Category_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\category\concrete\category_service.cs
+++MappingProfile.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\mapper\mappingprofile.cs
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.9)
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:>1080
+++IProduct_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\product\abstract\iproduct_service.cs
+++Product_Service.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\product\concrete\product_service.cs
+++ITokenService.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\token\abstract\itokenservice.cs
+++TokenService.cs
+i:{56e2afc3-d368-4ceb-a564-b5bdc3bd834c}:c:\users\tunay.turer\desktop\final project\pycapi.service\token\concrete\tokenservice.cs
+++PycApi.HangFire
+i:{00000000-0000-0000-0000-000000000000}:PycApi.HangFire
+++Controllers
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\controllers\
+++Jobs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\jobs\
+++HangFireJobController.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\controllers\hangfirejobcontroller.cs
+++JobContinuations.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\jobs\jobcontinuations.cs
+++JobDelayed.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\jobs\jobdelayed.cs
+++JobFireAndForget.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\jobs\jobfireandforget.cs
+++JobRecurring.cs
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\desktop\final project\pycapi.hangfire\jobs\jobrecurring.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:c:\users\tunay.turer\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Hangfire (1.7.28)
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1098
+++Hangfire.PostgreSql (1.9.8)
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1099
+++Hangfire.PostgreSql.Npgsql5 (1.9.8)
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1102
+++Npgsql.EntityFrameworkCore.PostgreSQL (5.0.2)
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1103
+++Swashbuckle.AspNetCore (5.6.3)
+i:{b2f6b101-b39a-4137-a80d-84d3c1487843}:>1101
+++PycApi.WorkerService
+i:{00000000-0000-0000-0000-000000000000}:PycApi.WorkerService
+++LogWorker.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\logworker.cs
+++TimedHostedService.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\timedhostedservice.cs
+++Worker.cs
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:c:\users\tunay.turer\desktop\final project\pycapi.workerservice\worker.cs
+++Microsoft.Extensions.Hosting (5.0.0)
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>1110
+++Microsoft.Extensions.Hosting.WindowsServices (5.0.0)
+i:{6e2526d8-5cb7-4d3a-a297-6df99937bd3f}:>1113

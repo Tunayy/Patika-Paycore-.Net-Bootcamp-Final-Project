@@ -1,0 +1,37 @@
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Service.deps.json
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\ref\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Service.pdb
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Data.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Dto.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Base.pdb
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Data.pdb
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\bin\Debug\net6.0\PycApi.Dto.pdb
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.csproj.AssemblyReference.cache
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.AssemblyInfoInputs.cache
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.AssemblyInfo.cs
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.csproj.CopyComplete
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\ref\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Service\obj\Debug\net6.0\PycApi.Service.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Service.deps.json
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\ref\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Service.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Data.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Dto.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Base.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Data.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\bin\Debug\net6.0\PycApi.Dto.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.csproj.AssemblyReference.cache
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.AssemblyInfoInputs.cache
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.AssemblyInfo.cs
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\ref\PycApi.Service.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Service\obj\Debug\net6.0\PycApi.Service.pdb

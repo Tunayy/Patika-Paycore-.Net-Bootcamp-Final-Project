@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PycApi.Base\PycApi.Base.csproj" />
+    <ProjectReference Include="..\PycApi.Data\PycApi.Data.csproj" />
+    <ProjectReference Include="..\PycApi.Dto\PycApi.Dto.csproj" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Iesi.Collections" Version="4.0.4" />
+		<PackageReference Include="MailKit" Version="3.2.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.9" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+	</ItemGroup>
+	
+</Project>

@@ -1,0 +1,24 @@
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\bin\Debug\net6.0\PycApi.Base.deps.json
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\bin\Debug\net6.0\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\bin\Debug\net6.0\ref\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\bin\Debug\net6.0\PycApi.Base.pdb
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.csproj.AssemblyReference.cache
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.AssemblyInfoInputs.cache
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.AssemblyInfo.cs
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\ref\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\dev4\PycApi.Base\obj\Debug\net6.0\PycApi.Base.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\bin\Debug\net6.0\PycApi.Base.deps.json
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\bin\Debug\net6.0\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\bin\Debug\net6.0\ref\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\bin\Debug\net6.0\PycApi.Base.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.AssemblyInfoInputs.cache
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.AssemblyInfo.cs
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\ref\PycApi.Base.dll
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.pdb
+C:\Users\tunay.turer\Desktop\Final Project\PycApi.Base\obj\Debug\net6.0\PycApi.Base.csproj.AssemblyReference.cache
