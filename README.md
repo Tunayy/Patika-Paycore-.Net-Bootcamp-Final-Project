@@ -15,8 +15,8 @@ Kullanıcı login olduktan sonra Product adı altında seçtiği kategoriye gör
 Databse
 
 ![Account Table](https://user-images.githubusercontent.com/56853506/191697939-f4745763-875c-4ad3-935f-b971ea143272.PNG)
-![Category Table](https://user-images.githubusercontent.com/56853506/191697942-3c4adf99-2bad-4f7d-a6df-c66fc45feba5.PNG)
 ![Product Table](https://user-images.githubusercontent.com/56853506/191697944-a1bf2b70-52d1-4b54-81db-b3a1caf9ccbb.PNG)
+![Category Table](https://user-images.githubusercontent.com/56853506/191697942-3c4adf99-2bad-4f7d-a6df-c66fc45feba5.PNG)
 
 
 Methods
